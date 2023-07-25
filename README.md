@@ -20,9 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Hectorcgn&icon=4&color=6)](https://visitcount.itsvg.in)
 
-### 🔊💚 My Spotify
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3lje4uer2ORgRS8E2Mu116?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hector.schneider@aol.com) 
