@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Hecrtor</h1>
+<h3 align="center">A passionate frontend developer born in Chile🇨🇱 living in Germany🇩🇪</h3>
+
 🌱 I’m currently learning html, scss, javascript, react,<br><br>💬 Ask me about I'm working with Visual Studio Code<br><br>📫 How to reach me schneiderhector@googlemail.com<br><br>⚡ Fun fact I was born in Chile but never lean spanisch ^^
 
 
