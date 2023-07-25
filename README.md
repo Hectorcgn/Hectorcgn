@@ -4,7 +4,7 @@
 🌱 I’m currently learning html, scss, javascript, react,<br><br>💬 Ask me about I'm working with Visual Studio Code<br><br>📫 How to reach me schneiderhector@googlemail.com<br><br>⚡ Fun fact I was born in Chile but never lean spanisch ^^
 
 
-## 🌐 Socials:
+## 🌐 my Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hector_cgn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omega_beats51) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/omega_beats51) 
 
 # 💻 Tech Stack:
@@ -20,8 +20,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Hectorcgn&icon=4&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hector.schneider@aol.com) 
+### 🔊💚 My Spotify
+<div align="center">
+  <a href="https://open.spotify.com/user/31vcnaea4pbazlgquu52gkpfb44q">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hector.schneider@aol.com) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
