@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hector</h1>
-<h3 align="center">A passionate frontend developer born in Chile🇨🇱 living in Germany🇩🇪</h3>
+<h1 align="center">Hi 👋, ich bln Hector</h1>
+<h3 align="center">ein Frontend Web-Entwikler geboren in Chile🇨🇱 lebe in Deutschland 🇩🇪</h3>
 
 🌱 I’m currently learning html, scss, javascript, react,<br>
 <br>💬 Ask me about I'm working with Visual Studio Code<br>
@@ -10,7 +10,7 @@
 ## 🌐 my Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hector_cgn) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hector__cgn) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/omega_beats51) 
+ 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
