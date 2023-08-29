@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hecrtor</h1>
+<h1 align="center">Hi 👋, I'm Hector</h1>
 <h3 align="center">A passionate frontend developer born in Chile🇨🇱 living in Germany🇩🇪</h3>
 
 🌱 I’m currently learning html, scss, javascript, react,<br>
