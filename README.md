@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, ich bln Hector</h1>
 <h3 align="center">ein Frontend Web-Entwikler geboren in Chile🇨🇱 lebe in Deutschland 🇩🇪</h3>
 
-🌱 I’m currently learning html, scss, javascript, react,<br>
-<br>💬 Ask me about I'm working with Visual Studio Code<br>
-<br>📫 How to reach me schneiderhector@googlemail.com<br>
-<br>⚡ Fun fact I was born in Chile but never lean spanisch ^^
+🌱 Aktuell lerne ich html, scss, javascript, react,<br>
+<br>💬 ich arbeite mit Visual Studio Code<br>
+<br>📫 Wie du mich erreichen kannst schneiderhector@googlemail.com<br>
+<br>⚡ Interessanter Fakt: Ich wurde in Chile geboren aber habe nie Spanisch gelernt ^^
 
 
-## 🌐 my Socials:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hector_cgn) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hector__cgn) 
  
@@ -22,12 +22,12 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 Meine GitHub Statistik:
 ![](https://github-readme-stats.vercel.app/api?username=Hectorcgn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hectorcgn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hectorcgn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💰 You can help me by Donating
+## 💰 Du kannst mich unterstützen durch Spenden ^^
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hector.schneider@aol.com) 
 
   
