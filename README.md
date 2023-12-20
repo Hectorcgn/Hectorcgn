@@ -22,13 +22,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 Meine GitHub Statistik:
-![](https://github-readme-stats.vercel.app/api?username=Hectorcgn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hectorcgn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hectorcgn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 💰 Du kannst mich unterstützen durch Spenden ^^
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hector.schneider@aol.com) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
