@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, ich bln Hector</h1>
-<h3 align="center">ein Frontend Web-Entwikler geboren in Chile🇨🇱 lebe in Deutschland 🇩🇪</h3>
+<h3 align="center">ein Frontend Web-Entwickler geboren in Chile🇨🇱 lebe in Deutschland 🇩🇪</h3>
 
 🌱 Aktuell bin ich auf der Suche nach meinem ersten Job als Full-Stack Webdeveleoper<br>
 <br>💬 ich arbeite mit Cursor<br>
